@@ -7,6 +7,6 @@ list.sort()
 print "Lista de candidatos: " + str(list)
 
 winnerList = random.sample(list, 3) 
-winnerList.sort
+winnerList.sort()
 
 print "and the winner List is : " + str(winnerList)
